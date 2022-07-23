@@ -1,7 +1,5 @@
-### Hi there 👋
+### Here is What I'm Working On!👋
 
-<!--
-**ParhamAB/ParhamAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,4 +9,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... p.abdollahzadehsangroodi@gmail.com
 - 😄 Pronouns: ... He/Him
--->
