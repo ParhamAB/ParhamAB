@@ -3,9 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Programing
-- 🌱 I’m currently learning ... JS
-- 👯 I’m looking to collaborate on ... WebDevelopment
-- 💬 Ask me about ... Anything
+- 🔭 I’m currently working on ... Programing (Html , Css , Js , Angular , React , Dart ,Flutter)
+- 🌱 I’m currently learning ... React
+- 👯 I’m looking to collaborate on ... Web Development And Mobile Development
 - 📫 How to reach me: ... nokashiyt@gmail.com
 - 😄 Pronouns: ... He/Him
