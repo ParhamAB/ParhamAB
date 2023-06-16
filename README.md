@@ -7,4 +7,3 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... React
 - 👯 I’m looking to collaborate on ... Web Development And Mobile Development
 - 📫 How to reach me: ... nokashiyt@gmail.com
-- 😄 Pronouns: ... He/Him
